@@ -1,0 +1,102 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+ a{
+    text-decoration: none;
+    color: black;
+ }
+
+#c1{
+    background-image: -webkit-linear-gradient( rgb(32, 51, 220) , rgb(148, 170, 232), rgb(32, 89, 222));
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 2px;
+    float: left;
+}
+#c1:hover{
+    background-image: -webkit-linear-gradient( rgb(221, 229, 224) ,rgb(0, 98, 255), rgb(222, 230, 221));
+}   
+    #c2{
+        background-image: -webkit-linear-gradient( rgb(240, 48, 182) , rgb(121, 63, 235), rgb(54, 81, 231));
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: inline-block;
+        margin-left: 2px;
+        float: left;
+    }
+    #c2:hover{
+        background-image: -webkit-linear-gradient( rgb(176, 56, 183) ,rgb(183, 46, 214), rgb(171, 53, 145));
+        
+    }
+
+        #c3{
+            background-image: -webkit-linear-gradient( rgb(41, 93, 235) , rgb(166, 210, 234), rgb(92, 88, 223));
+           width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-left: 2px;
+            float: left;
+        }
+        #c3:hover{
+            background-image: -webkit-linear-gradient( rgb(221, 229, 224) ,rgb(88, 56, 214), rgb(222, 230, 221));
+                }
+            #c4{
+                background-image: -webkit-linear-gradient( rgb(233, 65, 76) , rgb(247, 199, 199), rgb(227, 38, 38));
+               width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                display: inline-block;
+                margin-left: 2px;
+                float: left;
+            }
+            #c4:hover{
+                background-image: -webkit-linear-gradient( rgb(221, 229, 224) ,rgb(255, 0, 0), rgb(222, 230, 221));
+            }
+
+                #c5{
+                    background-image: -webkit-linear-gradient( rgb(22, 214, 93) ,rgb(221, 221, 221), rgb(85, 226, 69));
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                    display: inline-block;
+                    margin-left: 2px;
+                    float: left;
+                    
+                    
+                }
+                
+                #c5:hover{
+                    background-image: -webkit-linear-gradient( rgb(221, 229, 224) ,rgb(110, 232, 110), rgb(222, 230, 221));}
+
+
+i{
+    color: black;
+} 
+nav{
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 2px;
+ }
+ ul li{
+    float:right ;
+    padding: 10px;
+ }
+ ul  :hover{
+    color: aqua;
+}
+li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color:rgb(119, 107, 107);
+
+    
+
+}
+           
