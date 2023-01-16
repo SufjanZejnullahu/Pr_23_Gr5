@@ -1,0 +1,32 @@
+
+body{
+    text-align: center;
+    background-image: -webkit-linear-gradient( rgb(155, 148, 255) , rgb(239, 19, 19), rgb(20, 54, 175));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+form {
+    background-color: rgb(251, 251, 251);
+    color: rgb(0, 0, 0);
+    width: 400px;
+    margin: 40px auto;
+    padding: 80px 150px;
+    box-shadow: 10px 15px rgba(63, 66, 60, 0.5);
+
+    
+   
+}
+input{
+    border-radius: 10px;
+    width: 155px;
+    height: 25px;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 35px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
